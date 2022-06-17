@@ -1,5 +1,9 @@
 # 华为云 DDNS
+[![wakatime](https://wakatime.com/badge/user/92b8bbab-18e1-4e0c-af6d-082cc16c9d8a/project/1e3c2aeb-60fb-4d36-b763-4cda8dfc74c7.svg?style=flat)](https://wakatime.com/badge/user/92b8bbab-18e1-4e0c-af6d-082cc16c9d8a/project/1e3c2aeb-60fb-4d36-b763-4cda8dfc74c7)
+
 [English](https://github.com/ImYrS/huawei-ddns/blob/main/README.md) | 中文
+
+一个用于华为云 DNS 的 DDNS 客户端. 由 Python 编写.
 
 ## 用法
 - 克隆或下载此项目

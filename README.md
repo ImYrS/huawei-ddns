@@ -1,5 +1,9 @@
 # Huawei Cloud DDNS
+[![wakatime](https://wakatime.com/badge/user/92b8bbab-18e1-4e0c-af6d-082cc16c9d8a/project/1e3c2aeb-60fb-4d36-b763-4cda8dfc74c7.svg?style=flat)](https://wakatime.com/badge/user/92b8bbab-18e1-4e0c-af6d-082cc16c9d8a/project/1e3c2aeb-60fb-4d36-b763-4cda8dfc74c7)
+
 English | [中文](https://github.com/ImYrS/huawei-ddns/blob/main/README_CN.md)
+
+A simple DDNS client for Huawei Cloud DNS Service by Python.
 
 ## Usage
 - Clone or download this repository
