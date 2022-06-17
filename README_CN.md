@@ -1,12 +1,12 @@
-# Huawei Cloud DDNS
-English | [中文](https://github.com/ImYrS/huawei-ddns/blob/main/README_CN.md)
+# 华为云 DDNS
+[English](https://github.com/ImYrS/huawei-ddns/blob/main/README.md) | 中文
 
-## Usage
-- Clone or download this repository
-- Copy the `example.config.py` to `config.py`, and edit it to your needs
-- Run `python app.py`
+## 用法
+- 克隆或下载此项目
+- 将 `example.config.py` 复制一份并改名为 `config.py`, 按照需要修改
+- 运行 `python app.py`
 
-## Environment
+## 环境
 - Python 3.10+
 - [requests](https://pypi.python.org/pypi/requests)
 - [peewee](https://pypi.python.org/pypi/peewee)
