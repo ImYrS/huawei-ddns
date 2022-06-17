@@ -140,7 +140,7 @@ def create(
     """
     try:
         resp = requests.post(
-            f'https://dns.cn-east-2.myhuaweicloud.com/v2/zones/{zone_id}/recordsets',
+            f'https://dns.cn-south-1.myhuaweicloud.com/v2/zones/{zone_id}/recordsets',
             headers={'X-Auth-Token': auth.get().token},
             json={
                 'name': name,

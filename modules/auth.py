@@ -59,8 +59,8 @@ def refresh() -> Optional[Token]:
                         }
                     },
                     'scope': {
-                        'domain': {
-                            'name': config.domain_name
+                        'project': {
+                            'name': 'cn-south-1'
                         }
                     }
                 }
