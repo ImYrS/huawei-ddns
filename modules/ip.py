@@ -16,8 +16,10 @@ def get() -> Optional[str]:
     获取当前 IP 地址
     """
     try:
-        response = requests.get('https://ip.42.pl/text')
-        return response.text
+        resp = requests.get('https://httpbin.org/get')
+        resp.raise_for_status()
+        data = resp.json()
+        return data['origin']
     except requests.RequestException as e:
         log.error(f'[IP] 获取 IP 失败: {e}')
         return None
