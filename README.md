@@ -16,7 +16,7 @@ A simple DDNS client for Huawei Cloud DNS Service by Python.
 
 - Clone or download this repository
 - Run `pip install -r requirements.txt` to install dependencies
-- Copy the `example.config.py` to `config.py`, and edit it to your needs
+- Copy the `example.config.py` to `config.py`, and edit it
 - Run `python app.py`
 
 ## Environment
